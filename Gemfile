@@ -25,6 +25,8 @@ gem 'pg'
 gem "less-rails"
 gem "twitter-bootstrap-rails"
 gem 'ckeditor_rails'
+gem "devise", "~> 3.0.1"
+## gem 'protected_attributes'
 
 
 # Use jquery as the JavaScript library
