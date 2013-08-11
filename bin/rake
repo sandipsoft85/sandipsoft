@@ -1,3 +1,4 @@
+#!/usr/local/bin 
 require_relative '../config/boot'
 require 'rake'
 Rake.application.run
